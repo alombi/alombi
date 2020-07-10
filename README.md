@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, here's alombi!
+- 🛰 I’m currently working on Space Control Pro
+- 🌱 I’m currently learning Flask, Kivy and Sass
+#### My skills
+-  iOS Shortcuts
+- ✨ Web development
+- 🐍 Python
+
 
 <!--
 **alombi/alombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
