@@ -1,6 +1,6 @@
 ### Hi there, here's alombi!
 - 🛰 I’m currently working on Space Control Pro
-- 🌱 I’m currently learning Flask, Kivy and Sass
+- 🌱 I’m currently learning Flask and PHP
 #### My skills
 -  iOS Shortcuts
 - ✨ Web development
