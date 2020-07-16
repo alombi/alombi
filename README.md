@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, here's alombi!</h2>
+<h3 align="center">Hi there, here's alombi!</h2>
 
 <p align="center">
   <a href="https://alombi.xyz">Website</a>
