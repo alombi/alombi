@@ -8,7 +8,7 @@
 
 
 - 🛰 I’m currently working on Space Control Pro and ScreenKit Desktop
-- 🌱 I’m currently learning Flask and PHP
+- 🌱 I’m currently learning Electron
 #### My skills
 -  iOS Shortcuts
 - ✨ Web development
