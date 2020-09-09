@@ -6,14 +6,20 @@
 
 ---
 
-
-- 🛰 I’m currently working on Space Control Pro and ScreenKit Desktop
-- 🌱 I’m currently learning Electron
-#### My skills
+### About me
+- 🇮🇹 Based in Italy 
+- 🎒 Student
+### What I like to play with
 -  iOS Shortcuts
-- ✨ Web development
 - 🐍 Python
+- 🧪 Electron
+- ✨ Flask
+### Currently learning
+- 🍏 NodeJS
+### Other stuff I know
 - 🐘 PHP
+- ✨ Web design
+
 
 
 <!--
