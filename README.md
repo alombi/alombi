@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, here's alombi!</h2>
+<h3 align="center">Hey there, here's alombi!</h2>
 
 <p align="center">
   <a href="https://alombi.xyz">Website</a>
@@ -6,6 +6,12 @@
 
 ---
 
+Hey! Welcome to my GitHub profile. 
+I'm an Italian student who likes playing around with Python, JavaScript, iOS Shortcuts and some other things.
+
+I'm currently enjoing the Flask framework, ElectronJS and I'm learning more about Node and React.
+
+<!--
 ### About me
 - 🇮🇹 Based in Italy 
 - 🎒 Student
@@ -22,8 +28,6 @@
 - ⚡️ JavaScript
 
 
-
-<!--
 **alombi/alombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
