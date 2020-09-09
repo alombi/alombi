@@ -19,6 +19,7 @@
 ### Other stuff I know
 - 🐘 PHP
 - ✨ Web design
+- ⚡️ JavaScript
 
 
 
