@@ -9,7 +9,7 @@
 Hey! Welcome to my GitHub profile. 
 I'm an Italian student who likes playing around with Python, JavaScript, iOS Shortcuts and some other things.
 
-I'm currently enjoing the Flask framework, ElectronJS and I'm learning more about Node and React.
+I'm currently enjoing the Flask framework, ElectronJS and I'm learning more about Bulma CSS and Svelte.
 
 <!--
 ### About me
