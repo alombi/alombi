@@ -1,2 +1,2 @@
 # Welcome!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alombi&hide=html&langs_count=5)](https://github.com/alombi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alombi&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
