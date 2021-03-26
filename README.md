@@ -1,5 +1,5 @@
 # Welcome!
-* Know javascript, python and a bit of julia
+* Know javascript (node, svelte and vue), python and a bit of julia
 * Like svelte and flask
 * Learning vue and julia
 * Check out my website [https://alombi.xyz](https://alombi.xyz)
