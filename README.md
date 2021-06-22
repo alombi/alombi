@@ -1,11 +1,23 @@
-## Hi! Here's alombi
-Web and software programmer from Italy. Also student.
+# Hello. I'm alombi
+Welcome to my GitHub page. Here you can find some informations about me and my projects.
 
-* Know javascript (node, svelte and vue) and python
-* Like svelte and css
-* Learning swift and julia
-* Check out my website [https://alombi.xyz](https://alombi.xyz)
-* Add my jailbreak repo [https://alombi.xyz/repo](https://alombi.xyz/repo)
+Currently, I'm a student in Italy and I enjoy programming in my free time.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alombi&theme=react&show_icons=true)](https://github.com/alombi)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alombi&hide=html&&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+The programming languages I know are JavaScript and Python, but I enjoy a lot writing some CSS too.
+I also like web development, and so far I've used Node, Svelte, Vue, Flask and SCSS.
+
+I'm thinking about learning Fastify (Node framework), Go or Swift. I know a bit of Julia for some data science and math stuff.
+
+## Projects
+These are my usable and stable projects:
+* [earthquakes](https://github.com/alombi/earthquakes): A web app for checking latest earthquakes in Italy, with interactive maps;
+* [alombi.xyz](https://github.com/alombi/alombi.xyz): my personal website;
+* [nyx](https://github.com/alombi/nyx): a tweak for jailbroken iOS devices that adds four beatiful pill widgets on the lock screen
+
+## Contacts
+My website is at [alombi.xyz](alombi.xyz) (and its source it's at https://github.com/alombi/alombi.xyz).
+
+You can find me on Twitter ([@alombi](https://twitter.com/al0mbi)) and on Reddit ([u/alelombi](https://www.reddit.com/user/alelombi))
+
+## Jailbreak repo
+If you are a jailbreaker, you can add my repo to Cydia: https://alombi.xyz/repo
