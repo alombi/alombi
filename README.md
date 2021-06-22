@@ -15,7 +15,7 @@ These are my usable and stable projects:
 * [nyx](https://github.com/alombi/nyx): a tweak for jailbroken iOS devices that adds four beatiful pill widgets on the lock screen
 
 ## Contacts
-My website is at [alombi.xyz](alombi.xyz) (and its source it's at https://github.com/alombi/alombi.xyz).
+My website is at [alombi.xyz](alombi.xyz) (and its source is at https://github.com/alombi/alombi.xyz).
 
 You can find me on Twitter ([@alombi](https://twitter.com/al0mbi)) and on Reddit ([u/alelombi](https://www.reddit.com/user/alelombi))
 
