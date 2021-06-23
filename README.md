@@ -11,7 +11,7 @@ I'm thinking about learning Fastify (Node framework), Go or Swift. I know a bit 
 ## Projects
 These are some of my usable and stable projects:
 * [earthquakes](https://github.com/alombi/earthquakes): A web app for checking latest earthquakes in Italy, with interactive maps;
-* [alombi.xyz](https://github.com/alombi/alombi.xyz): my personal website;
+* [alombi.xyz](https://alombi.xyz): my personal website;
 * [nyx](https://github.com/alombi/nyx): a tweak for jailbroken iOS devices that adds four beatiful pill widgets on the lock screen
 
 ## Contacts
