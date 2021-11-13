@@ -1,12 +1,8 @@
 # Hello. I'm alombi
 Welcome to my GitHub page. Here you can find some informations about me and my projects.
 
-Currently, I'm a student in Italy and I enjoy programming in my free time.
+Currently, I'm a student in Italy and I enjoy programming in my free time. I write JavaScript and some Python, and I really enjoy CSS (and SCSS as well), Svelte, Vue, Node and Flask.
 
-The programming languages I know are JavaScript and Python, but I enjoy a lot writing some CSS too.
-I also like web development, and so far I've used Node, Svelte, Vue, Flask and SCSS.
-
-I'm thinking about learning Fastify (Node framework), Go or Swift. I know a bit of Julia for some data science and math stuff.
 
 ## Projects
 These are some of my usable and stable projects:
