@@ -16,4 +16,4 @@ My website is at [alombi.xyz](alombi.xyz) (and its source is at https://github.c
 You can find me on Twitter ([@alombi](https://twitter.com/al0mbi)) and on Reddit ([u/alelombi](https://www.reddit.com/user/alelombi))
 
 ## Jailbreak repo
-If you are a jailbreaker, you can add my repo to Cydia: https://alombi.xyz/repo
+If you are a jailbreaker, you can add my repo to Cydia: https://alombi.github.io/repo
