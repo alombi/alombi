@@ -1,5 +1,3 @@
-Welcome to my GitHub. I'm a student and somehow a programmer in my free time.
+19, student & programmer. website at [alombi.xyz](https://alombi.xyz).
 
-My website is at [alombi.xyz](https://alombi.xyz).
-
-I write Javascript (vanilla, Svelte, Node, Vue) and some Python. I sometimes enjoy writing CSS.
+Working with JS, Svelte, SCSS, Node, Swift. Sometimes Deno and Python.
